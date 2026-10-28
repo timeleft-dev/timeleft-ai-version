@@ -1,15 +1,15 @@
 {
-  "sha": "e5c1d28a5fb994bd94a946834af394af1e923407",
-  "pushed_at": "2026-10-27T22:11:43.000Z",
-  "pushed_epoch": 1793139103,
+  "sha": "4f3e4d8610ca0f0511fb885ee3b7073f489078cb",
+  "pushed_at": "2026-10-28T08:56:28.000Z",
+  "pushed_epoch": 1793177788,
   "plugins": {
     "shared": "0.8.3",
-    "product": "1.56.0",
-    "tech": "0.120.0"
+    "product": "1.56.1",
+    "tech": "0.120.1"
   },
   "previous": {
     "shared": "0.8.3",
-    "product": "1.55.0",
-    "tech": "0.119.2"
+    "product": "1.56.0",
+    "tech": "0.120.0"
   }
 }

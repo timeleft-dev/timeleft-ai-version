@@ -1,15 +1,16 @@
 {
-  "sha": "4f3e4d8610ca0f0511fb885ee3b7073f489078cb",
-  "pushed_at": "2026-10-28T08:56:28.000Z",
-  "pushed_epoch": 1793177788,
+  "sha": "259aabea562b669b0a72bbe34875cd86ccfa2531",
+  "pushed_at": "2026-11-04T14:12:55.000Z",
+  "pushed_epoch": 1793801575,
   "plugins": {
-    "shared": "0.8.3",
-    "product": "1.56.1",
-    "tech": "0.120.1"
+    "timeleft-ai": "0.1.0",
+    "shared": "0.8.4",
+    "product": "1.56.2",
+    "tech": "0.120.2"
   },
   "previous": {
     "shared": "0.8.3",
-    "product": "1.56.0",
-    "tech": "0.120.0"
+    "product": "1.56.1",
+    "tech": "0.120.1"
   }
 }

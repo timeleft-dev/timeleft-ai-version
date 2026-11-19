@@ -1,9 +1,9 @@
 {
-  "sha": "797cd96903b80aa0fb4721de32824d6e367fd35c",
-  "pushed_at": "2026-11-19T23:08:15.000Z",
-  "pushed_epoch": 1795129695,
+  "sha": "d0c6199d590189d499d151960b3ca4115f3c8919",
+  "pushed_at": "2026-11-19T23:55:47.000Z",
+  "pushed_epoch": 1795132547,
   "plugins": {
-    "timeleft-ai": "0.1.82",
+    "timeleft-ai": "0.1.83",
     "shared": "0.8.4",
     "product": "1.56.2",
     "tech": "0.120.2"
